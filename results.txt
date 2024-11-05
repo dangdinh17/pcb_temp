@@ -1,0 +1,252 @@
+HQSR_C
+missinghole_psnr: 30.47
+mousebite_psnr: 30.57
+opencircuit_psnr: 30.64
+short_psnr: 30.43
+spur_psnr: 30.75
+spuriouscopper_psnr: 30.36
+average_psnr: 30.54
+time process: 32.49
+missinghole_psnr: 0.8465
+mousebite_psnr: 0.8479
+opencircuit_psnr: 0.8505
+short_psnr: 0.8424
+spur_psnr: 0.8527
+spuriouscopper_psnr: 0.8457
+average_psnr: 0.8476
+time process: 32.4855
+
+HQSR_S
+missinghole_psnr: 30.46
+mousebite_psnr: 30.56
+opencircuit_psnr: 30.60
+short_psnr: 30.39
+spur_psnr: 30.72
+spuriouscopper_psnr: 30.33
+average_psnr: 30.51
+time process: 34.58
+missinghole_psnr: 0.8458
+mousebite_psnr: 0.8470
+opencircuit_psnr: 0.8494
+short_psnr: 0.8410
+spur_psnr: 0.8516
+spuriouscopper_psnr: 0.8447
+average_psnr: 0.8466
+time process: 34.5802
+
+HQSR_C
+missinghole_psnr: 30.47
+mousebite_psnr: 30.57
+opencircuit_psnr: 30.64
+short_psnr: 30.43
+spur_psnr: 30.75
+spuriouscopper_psnr: 30.36
+average_psnr: 30.54
+time process: 31.19
+missinghole_psnr: 0.8465
+mousebite_psnr: 0.8479
+opencircuit_psnr: 0.8505
+short_psnr: 0.8424
+spur_psnr: 0.8527
+spuriouscopper_psnr: 0.8457
+average_ssim: 0.8476
+time process: 31.1923
+
+HQSR_S
+missinghole_psnr: 30.46
+mousebite_psnr: 30.56
+opencircuit_psnr: 30.60
+short_psnr: 30.39
+spur_psnr: 30.72
+spuriouscopper_psnr: 30.33
+average_psnr: 30.51
+time process: 29.61
+missinghole_psnr: 0.8458
+mousebite_psnr: 0.8470
+opencircuit_psnr: 0.8494
+short_psnr: 0.8410
+spur_psnr: 0.8516
+spuriouscopper_psnr: 0.8447
+average_ssim: 0.8466
+time process: 29.6098
+
+EDSR
+missinghole_psnr: 30.40
+mousebite_psnr: 30.48
+opencircuit_psnr: 30.58
+short_psnr: 30.35
+spur_psnr: 30.70
+spuriouscopper_psnr: 30.33
+average_psnr: 30.47
+time process: 25.66
+missinghole_psnr: 0.8420
+mousebite_psnr: 0.8428
+opencircuit_psnr: 0.8462
+short_psnr: 0.8380
+spur_psnr: 0.8482
+spuriouscopper_psnr: 0.8411
+average_ssim: 0.8431
+time process: 25.6579
+
+SRResNet
+missinghole_psnr: 26.84
+mousebite_psnr: 26.15
+opencircuit_psnr: 27.19
+short_psnr: 27.09
+spur_psnr: 26.67
+spuriouscopper_psnr: 27.09
+average_psnr: 26.84
+time process: 42.39
+missinghole_psnr: 0.7265
+mousebite_psnr: 0.7047
+opencircuit_psnr: 0.7360
+short_psnr: 0.7307
+spur_psnr: 0.7155
+spuriouscopper_psnr: 0.7344
+average_ssim: 0.7246
+time process: 42.3904
+
+VDSR
+missinghole_psnr: 29.75
+mousebite_psnr: 29.83
+opencircuit_psnr: 29.89
+short_psnr: 29.69
+spur_psnr: 29.97
+spuriouscopper_psnr: 29.62
+average_psnr: 29.79
+time process: 62.55
+missinghole_psnr: 0.8280
+mousebite_psnr: 0.8283
+opencircuit_psnr: 0.8324
+short_psnr: 0.8236
+spur_psnr: 0.8333
+spuriouscopper_psnr: 0.8254
+average_ssim: 0.8285
+time process: 62.5519
+
+SRCNN
+missinghole_psnr: 29.42
+mousebite_psnr: 29.51
+opencircuit_psnr: 29.56
+short_psnr: 29.39
+spur_psnr: 29.66
+spuriouscopper_psnr: 29.31
+average_psnr: 29.47
+time process: 29.09
+missinghole_psnr: 0.8139
+mousebite_psnr: 0.8144
+opencircuit_psnr: 0.8186
+short_psnr: 0.8100
+spur_psnr: 0.8197
+spuriouscopper_psnr: 0.8121
+average_ssim: 0.8148
+time process: 29.0940
+
+HQSR_C
+missinghole_psnr: 30.47
+mousebite_psnr: 30.57
+opencircuit_psnr: 30.64
+short_psnr: 30.43
+spur_psnr: 30.75
+spuriouscopper_psnr: 30.36
+average_psnr: 30.54
+time process: 244.92
+missinghole_psnr: 0.8465
+mousebite_psnr: 0.8479
+opencircuit_psnr: 0.8505
+short_psnr: 0.8424
+spur_psnr: 0.8527
+spuriouscopper_psnr: 0.8457
+average_ssim: 0.8476
+time process: 244.9247
+
+HQSR_S
+missinghole_psnr: 30.46
+mousebite_psnr: 30.56
+opencircuit_psnr: 30.60
+short_psnr: 30.39
+spur_psnr: 30.72
+spuriouscopper_psnr: 30.33
+average_psnr: 30.51
+time process: 248.70
+missinghole_psnr: 0.8458
+mousebite_psnr: 0.8470
+opencircuit_psnr: 0.8494
+short_psnr: 0.8410
+spur_psnr: 0.8516
+spuriouscopper_psnr: 0.8447
+average_ssim: 0.8466
+time process: 248.6967
+
+EDSR
+missinghole_psnr: 30.40
+mousebite_psnr: 30.48
+opencircuit_psnr: 30.58
+short_psnr: 30.35
+spur_psnr: 30.70
+spuriouscopper_psnr: 30.33
+average_psnr: 30.47
+time process: 235.91
+missinghole_psnr: 0.8420
+mousebite_psnr: 0.8428
+opencircuit_psnr: 0.8462
+short_psnr: 0.8380
+spur_psnr: 0.8482
+spuriouscopper_psnr: 0.8411
+average_ssim: 0.8431
+time process: 235.9122
+
+SRResNet
+missinghole_psnr: 26.84
+mousebite_psnr: 26.15
+opencircuit_psnr: 27.19
+short_psnr: 27.09
+spur_psnr: 26.67
+spuriouscopper_psnr: 27.09
+average_psnr: 26.84
+time process: 343.51
+missinghole_psnr: 0.7265
+mousebite_psnr: 0.7047
+opencircuit_psnr: 0.7360
+short_psnr: 0.7307
+spur_psnr: 0.7155
+spuriouscopper_psnr: 0.7344
+average_ssim: 0.7246
+time process: 343.5134
+
+VDSR
+missinghole_psnr: 29.75
+mousebite_psnr: 29.83
+opencircuit_psnr: 29.89
+short_psnr: 29.69
+spur_psnr: 29.97
+spuriouscopper_psnr: 29.62
+average_psnr: 29.79
+time process: 1353.21
+missinghole_psnr: 0.8280
+mousebite_psnr: 0.8283
+opencircuit_psnr: 0.8324
+short_psnr: 0.8236
+spur_psnr: 0.8333
+spuriouscopper_psnr: 0.8254
+average_ssim: 0.8285
+time process: 1353.2127
+
+SRCNN
+missinghole_psnr: 29.42
+mousebite_psnr: 29.51
+opencircuit_psnr: 29.56
+short_psnr: 29.39
+spur_psnr: 29.66
+spuriouscopper_psnr: 29.31
+average_psnr: 29.47
+time process: 179.97
+missinghole_psnr: 0.8139
+mousebite_psnr: 0.8144
+opencircuit_psnr: 0.8186
+short_psnr: 0.8100
+spur_psnr: 0.8197
+spuriouscopper_psnr: 0.8121
+average_ssim: 0.8148
+time process: 179.9696
+
